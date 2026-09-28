@@ -1,0 +1,7 @@
+=== Content from part1.txt ===
+Header: Project Documentation Part 1
+Section 1: Introduction to Python.
+
+=== Content from part2.txt ===
+Header: Project Documentation Part 2
+Section 2: Advanced OOP Features.

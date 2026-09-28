@@ -1,0 +1,2 @@
+Python is a great language. Python is widely used in enterprise apps.
+Many developers love Python for backend programming.

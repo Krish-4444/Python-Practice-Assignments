@@ -1,0 +1,5 @@
+Python is a versatile programming language.
+File handling allows permanent data storage.
+Practice building projects every day.
+Clean code is easy to read and maintain.
+Consistency is the key to mastering programming.

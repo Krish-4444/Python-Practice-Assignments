@@ -1,0 +1,12 @@
+2026-09-28 11:11:45,465 - ERROR - Division by zero error occurred
+Traceback (most recent call last):
+  File "j:\Krish(js learning)\as8\prog9_log_errors_to_file.py", line 19, in divide_numbers
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-09-28 11:11:45,466 - ERROR - Type error: unsupported operand type(s) for /: 'str' and 'int'
+Traceback (most recent call last):
+  File "j:\Krish(js learning)\as8\prog9_log_errors_to_file.py", line 19, in divide_numbers
+    result = a / b
+             ~~^~~
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
